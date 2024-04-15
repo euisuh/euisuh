@@ -10,8 +10,9 @@ Hi, I'm **Euisuh Jeong**, currently a Research Assistant at Qatar Computing Rese
 
 ### Contact Me
 
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LujieZ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanket-patil-b4134362/)](https://www.linkedin.com/in/john-euisuh-jeong-7a790619a/)
-- Email: [![Email](https://img.shields.io/badge/lujie.sue.zhao@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:euisuh.jeong@gmail.com)
+<a href="mailto:euisuh.jeong@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Misc/mail.svg" alt="email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/john-euisuh-jeong-7a790619a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-euisuh-jeong-7a790619a" height="30" width="40" /></a>
+<a href="https://instagram.com/euisuh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="euisuh_" height="30" width="40" /></a>
 
 ### Languages and Tools I Use
 
