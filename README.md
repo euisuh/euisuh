@@ -4,19 +4,15 @@ Exploring the world of AI and software engineering with a background shaped by l
 
 ### What I'm Doing Recently
 
-👨🏻‍💻 Currently working on leveraging AI, specifically Large Language Models, to enhance security measures and handle software vulnerabilities; also developing an Arabic LLM, Fanar, to expand language processing capabilities.
-
-🌱 Focused on advancing my engineering expertise and engaging in competitive programming challenges.
-
-📫 Don't hesitate to reach out via email with any inquiries.
+- 👨🏻‍💻 Currently working on leveraging AI, specifically Large Language Models, to enhance security measures and handle software vulnerabilities; also developing an Arabic LLM, Fanar, to expand language processing capabilities.
+- 🌱 Focused on advancing my engineering expertise and engaging in competitive programming challenges.
+- 📫 Don't hesitate to reach out via email with any inquiries.
 
 ### Contact Me
 
-📧 Email me at **euisuh.jeong@gmail.com**
-
-🔗 Connect on [LinkedIn](https://linkedin.com/in/john-euisuh-jeong-7a790619a)
-
-📸 See my life in pictures on [Instagram](https://instagram.com/euisuh_)
+- 📧 Email me at **euisuh.jeong@gmail.com**
+- 🔗 Connect on [LinkedIn](https://linkedin.com/in/john-euisuh-jeong-7a790619a)
+- 📸 See my life in pictures on [Instagram](https://instagram.com/euisuh_)
 
 ### Languages and Tools I Use
 
