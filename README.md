@@ -12,6 +12,7 @@ Exploring the world of AI and software engineering with a background shaped by l
 
 - 📧 Email me at **euisuh.jeong@gmail.com**
 - 🔗 Connect on [**LinkedIn**](https://linkedin.com/in/john-euisuh-jeong-7a790619a)
+- 🚀 Check my progress on [**HuggingFace**](https://huggingface.co/euisuh15)
 - 📸 See my life in pictures on [**Instagram**](https://instagram.com/euisuh_)
 
 ### Languages and Tools I Use
