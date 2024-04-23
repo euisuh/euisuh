@@ -1,4 +1,6 @@
-## Hey, I'm Euisuh
+## Hello, I'm Euisuh
+
+Research assistant at Qatar Computing Research Institute, working on exploiting LLM for software vulnerability detection.
 
 Exploring the world of AI and software engineering with a background shaped by life and studies in the US, Korea, India, and Qatar. Passionate about using my unique global insights and teamwork skills to creatively solve challenging tech problems alongside diverse teams.
 
