@@ -34,11 +34,11 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=euisuh&show_icons=true&count_private=true&hide_border=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euisuh&layout=compact&hide_border=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=euisuh&show_icons=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euisuh&layout=compact&hide_border=true" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euisuh&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euisuh&hide_border=true" />
 </p>
 
 ---
