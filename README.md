@@ -34,17 +34,17 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euisuh&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=0969DA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euisuh&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=555555&dates=555555&stroke=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euisuh&theme=github" height="140"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euisuh&theme=github" height="140"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=euisuh&theme=github" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euisuh&theme=transparent" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euisuh&theme=transparent" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=euisuh&theme=transparent" height="140"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euisuh&bg_color=ffffff&color=555555&line=0969DA&point=0969DA&hide_border=true&area=true&area_color=0969DA" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euisuh&bg_color=00000000&color=555555&line=0969DA&point=0969DA&hide_border=true&area=true&area_color=0969DA" />
 </p>
 
 ---
