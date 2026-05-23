@@ -34,11 +34,17 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=euisuh&show_icons=true&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euisuh&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euisuh&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=0969DA" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euisuh&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euisuh&theme=github" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euisuh&theme=github" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=euisuh&theme=github" height="140"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=euisuh&bg_color=ffffff&color=555555&line=0969DA&point=0969DA&hide_border=true&area=true&area_color=0969DA" />
 </p>
 
 ---
