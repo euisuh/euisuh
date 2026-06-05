@@ -41,6 +41,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=euisuh&theme=transparent" height="140"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=euisuh&theme=transparent" height="140"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=euisuh&theme=transparent" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=euisuh&theme=transparent" height="140"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=euisuh&theme=transparent" height="140"/>
 </p>
 
 <p align="center">
