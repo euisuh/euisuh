@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Staff Sergeant · Republic of Korea Air Force (AI-Based Technology Team) · CMU CS '22</b><br/>
-  AI researcher & software engineer · Published in KOSAP & KSMI · AIxamine founding member at QCRI
+  AI researcher & software engineer · Published in KOSAP & KSMI · aiXamine founding member at QCRI
 </p>
 
 <p align="center">
