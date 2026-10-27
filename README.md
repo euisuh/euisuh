@@ -1,17 +1,21 @@
-<h2 align="center">Hi, I'm Euisuh 👋</h2>
+I work on LLM security, watermarking, and evaluation, and build tooling for LLM agents.
+The repositories below are public; larger write-ups are on [uiseoya.com](https://uiseoya.com).
+Also on [Hugging Face](https://huggingface.co/euisuh) and [LinkedIn](https://linkedin.com/in/euisuh).
 
-<p align="center">
-  <b>Staff Sergeant · Republic of Korea Air Force (AI-Based Technology Team) · CMU CS '22</b><br/>
-  AI researcher & software engineer · Published in KOSAP & KSMI · aiXamine founding member at QCRI
-</p>
+## Security
 
-<p align="center">
-  <a href="https://uiseoya.com"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/euisuh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://huggingface.co/euisuh"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /></a>
-  <a href="mailto:euisuh.jeong@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+- [cheoyong](https://github.com/euisuh/cheoyong): policy layer for LLM agent tool calls that allows, denies, rate-limits and audits calls before they execute.
+- [gumiho](https://github.com/euisuh/gumiho): benchmark for indirect prompt injection against tool-using LLM agents (in progress).
+- [CVEFixesUtil](https://github.com/euisuh/CVEFixesUtil): builds vulnerable/fixed function pairs from the CVEfixes dataset and benchmarks open-weight code LLMs on detecting the vulnerability.
 
-<p align="center">
-  Projects, publications, and writing → <a href="https://uiseoya.com"><b>uiseoya.com</b></a>
-</p>
+## Evaluation
+
+- [modelscan-eval](https://github.com/euisuh/modelscan-eval): runs ML supply-chain scanners over one labeled synthetic corpus and reports detection rate, false positives and robustness to pickle evasion.
+- [trustmark-soft-binding-demo](https://github.com/euisuh/trustmark-soft-binding-demo): small CPU reproduction of TrustMark overwrite behavior and a check of c2patool soft-binding discovery.
+- [audio-command-span-gating-demo](https://github.com/euisuh/audio-command-span-gating-demo): small CPU demo comparing word-level and utterance-level AudioSeal gating of voice-agent commands, on synthetic speech.
+
+## Tooling
+
+- [nginx-proxy-manager-mcp](https://github.com/euisuh/nginx-proxy-manager-mcp): MCP server for managing Nginx Proxy Manager proxy hosts, Let's Encrypt certificates and access lists.
+- [caddy-mcp](https://github.com/euisuh/caddy-mcp): MCP server for inspecting and operating Caddy through its admin API; mutating tools default to dry run.
+- [agent-statusline](https://github.com/euisuh/agent-statusline): fixed-width Claude Code statusline scripts.
